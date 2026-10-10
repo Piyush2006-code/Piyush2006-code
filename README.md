@@ -1,7 +1,7 @@
 
 # Hi, I'm Piyush Singh 👋
 
-### CSE Undergraduate | Aspiring Software Developer
+### CSE Undergraduate | Aspiring AI/ML Engineer
 
 I’m a Computer Science and Engineering undergraduate building a strong foundation in programming, problem-solving, and software development.
 
